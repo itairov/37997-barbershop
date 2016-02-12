@@ -606,7 +606,7 @@ padding-right:0;
 /************************************************************BARBER-SHOP**************************************************************************************/
 .filtres{
   width: 230px;
-  display: inline-block;
+  float: left;
 }
 
 .filtres h2{
@@ -619,7 +619,7 @@ padding-right:0;
 
 .products{
   width: 700px;
-  float: right;
+  float: left;
   font-size: 14px;
 }
 
