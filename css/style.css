@@ -472,11 +472,21 @@ body {
   padding: 0;
 }
 
+
+a{
+  text-decoration: none;
+}
+
 h1{
   margin: 0;
   font-size: 30px;
   text-transform: uppercase;
   padding-top: 58px;
+  margin-bottom: 25px;
+}
+
+h2{
+  margin: 0;
 }
 
 
@@ -537,7 +547,7 @@ padding-right:0;
 
 .breadcrumbs{
   width: 620px;
-  margin-bottom: 50px;
+  margin-bottom: 55px;
 }
 
 .gallery{
@@ -590,6 +600,60 @@ padding-right:0;
 .product-range h2{
   margin-bottom: 40px;
 }
+
+
+
+/************************************************************BARBER-SHOP**************************************************************************************/
+.filtres{
+  width: 230px;
+  display: inline-block;
+}
+
+.filtres h2{
+  font-size: 24px;
+}
+
+.manufact{
+  margin-bottom: 55px;
+}
+
+.products{
+  width: 700px;
+  float: right;
+  font-size: 14px;
+}
+
+.products article{
+  float: left;
+  margin-right: 5px;
+  width: 220px;
+}
+
+
+.pagination{
+  margin-left: 230px;
+  display: inline-block;
+}
+
+.pagination a{
+  margin-right: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************BARBER-SHOP**************************************************************************************/
 
 .main-footer {
   background: #222222;
